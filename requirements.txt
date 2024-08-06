@@ -1,0 +1,4 @@
+stremlit==1.32
+google-generativeai==0.4.1
+python-dotenv
+Ipython
